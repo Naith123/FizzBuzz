@@ -30,4 +30,3 @@
                END-IF
            END-PERFORM.
            STOP RUN.
-           
